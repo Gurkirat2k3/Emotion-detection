@@ -25,49 +25,7 @@ Matplotlib (optional, for visualization)
 
 Pre-trained CNN model (e.g., FER2013 dataset)
 
-📁 Project Structure
-bash
-Copy code
-emotion-detection/
-│
-├── model/                  # Contains trained models
-│   └── emotion_model.h5
-│
-├── dataset/                # (Optional) Emotion datasets
-│
-├── images/                 # Sample images for testing
-│
-├── src/                    # Main source code
-│   ├── detect_emotion.py
-│   └── utils.py
-│
-├── README.md               # Project documentation
-└── requirements.txt        # Dependencies list
-🚀 Getting Started
-Prerequisites
-Python 3.x
 
-pip
-
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/emotion-detection.git
-cd emotion-detection
-Install dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-python src/detect_emotion.py
-📷 Demo
-Add screenshots or GIFs here to show the application in action.
 
 🗃️ Dataset
 This project uses the FER-2013 dataset for training the model. You can download it from Kaggle.
