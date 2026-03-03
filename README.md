@@ -2,10 +2,10 @@
 A Python-based project that detects human emotions in real-time using facial expressions. This application utilizes computer vision and deep learning techniques to recognize emotions such as happy, sad, angry, surprised, neutral, and more.
 
 **Features**
-# Real-time emotion detection using webcam
-# Pre-trained deep learning models for emotion classification
-# Face detection using OpenCV or similar libraries
-# Easy-to-use and customizable Python code
+1. Real-time emotion detection using webcam
+2. Pre-trained deep learning models for emotion classification
+3. Face detection using OpenCV or similar libraries
+4. Easy-to-use and customizable Python code
 
 **Option to visualize emotion probabilities with confidence scores**
 
